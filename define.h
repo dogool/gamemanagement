@@ -1,7 +1,8 @@
 #pragma once
 #pragma once
+#define HEIG 44
 
-#define LEFT 75 //좌로 이동    //키보드값들 
+#define LEFT 74 //좌로 이동    //키보드값들 
 #define RIGHT 77 //우로 이동 
 #define UP 72 //위로이동 
 #define DOWN 80 //아래로이동
